@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="Vectors - 01 Declaration and Initialization/Vectors - 01 Declaration and Initialization.vcxproj" />
   <Project Path="Vectors - 02 Add Elements/Vectors - 02 Add Elements.vcxproj" />
+  <Project Path="Vectors - 03 Vector of Structure/Vectors - 03 Vector of Structure.vcxproj" />
 </Solution>
