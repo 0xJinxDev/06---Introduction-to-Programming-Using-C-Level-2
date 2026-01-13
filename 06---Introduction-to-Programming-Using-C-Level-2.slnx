@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Vectors - 01 Declaration and Initialization/Vectors - 01 Declaration and Initialization.vcxproj" />
+  <Project Path="Vectors - 02 Add Elements/Vectors - 02 Add Elements.vcxproj" />
+</Solution>
