@@ -12,7 +12,7 @@ struct stEmployee {
 	float Salary;
 };
 
-void ReadEmployees(vector <stEmployee>& Employees) {
+void ReadEmployees(vector <stEmployee>& vEmployees) {
 
 	char flag = 'y';
 	stEmployee TempEmployee;
@@ -24,15 +24,15 @@ void ReadEmployees(vector <stEmployee>& Employees) {
 		cout << "Please enter the salary:\n";
 		cin >> TempEmployee.Salary;
 
-		Employees.push_back(TempEmployee);
+		vEmployees.push_back(TempEmployee);
 		cout << "Do you want to add another employee?(Y/N)\n";
 		cin >> flag;
 	}
 }
 
-void PrintEmployees(const vector <stEmployee>& Employees) {
+void PrintEmployees(const vector <stEmployee>& vEmployees) {
 
-	for (const stEmployee& Employee : Employees) {
+	for (const stEmployee& Employee : vEmployees) {
 
 		cout << "First name: " << Employee.FirstName << endl;
 		cout << "Last name: " << Employee.LastName << endl;
@@ -42,9 +42,9 @@ void PrintEmployees(const vector <stEmployee>& Employees) {
 }
 int main() {
 
-	vector <stEmployee> Employees;
-	ReadEmployees(Employees);
-	PrintEmployees(Employees);
+	vector <stEmployee> vEmployees;
+	ReadEmployees(vEmployees);
+	PrintEmployees(vEmployees);
 
 	return 0;
 }
