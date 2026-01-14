@@ -12,6 +12,9 @@
   <Project Path="Pointers - 07 Pointers to Void/Pointers - 07 Pointers to Void.vcxproj" Id="7fe4a89f-fa83-41d3-86e4-b9e107900c7d" />
   <Project Path="Pointers - 08 Memory Managment - New and Delete/Pointers - 08 Memory Managment - New and Delete.vcxproj" Id="f7f6edc0-9ac9-4473-8eed-90687a379573" />
   <Project Path="Pointers - 09 Dynamic Array - New and Delete/Pointers - 09 Dynamic Array - New and Delete.vcxproj" Id="3a8ab6e4-9c49-4cea-a69c-06f5b38a83c4" />
+  <Project Path="String - 01 Common Methods/String - 01 Common Methods.vcxproj" Id="2dc08fb8-32b1-41f5-a38d-1e35be283e02" />
+  <Project Path="Strings - 02 Some CCTYPE Functions/Strings - 02 Some CCTYPE Functions.vcxproj" Id="9d8dec97-63ad-4d59-a7bb-5c075641c0dc" />
+  <Project Path="Try Catch/Try Catch.vcxproj" Id="bc3f3ffe-effd-41f0-acfe-f5a55f8c046e" />
   <Project Path="Vectors - 01 Declaration and Initialization/Vectors - 01 Declaration and Initialization.vcxproj" Id="3a22b41f-1c74-4e65-9167-8c05c74dbd87" />
   <Project Path="Vectors - 02 Add Elements/Vectors - 02 Add Elements.vcxproj" Id="b7c7412f-ab60-4e44-8683-0906ea6a5f81" />
   <Project Path="Vectors - 03 Vector of Structure/Vectors - 03 Vector of Structure.vcxproj" Id="2ce42d83-27b7-471a-b7f7-5aa10382a4c5" />
