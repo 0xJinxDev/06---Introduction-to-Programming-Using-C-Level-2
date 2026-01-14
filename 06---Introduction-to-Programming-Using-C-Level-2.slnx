@@ -7,6 +7,11 @@
   <Project Path="Pointers - 02 Dereferencing Pointers/Pointers - 02 Dereferencing Pointers.vcxproj" Id="e3fd790d-92c9-4bd7-b301-4f32244c8151" />
   <Project Path="Pointers - 03 Pointers vs References/Pointers - 03 Pointers vs References.vcxproj" Id="866931fb-5b3f-4a83-b70b-15e1c14650d3" />
   <Project Path="Pointers - 04 Call by Reference Using Pointers/Pointers - 04 Call by Reference Using Pointers.vcxproj" Id="d564edcf-2687-4222-a4fb-ce24943f7f79" />
+  <Project Path="Pointers - 05 Pointers and Arrays/Pointers - 05 Pointers and Arrays.vcxproj" Id="a6f1fbef-f255-454e-a26b-eb71d4b821d0" />
+  <Project Path="Pointers - 06 Pointers and Structures/Pointers - 06 Pointers and Structures.vcxproj" Id="5d0e2886-b1cb-410e-ac67-8f8f8654da16" />
+  <Project Path="Pointers - 07 Pointers to Void/Pointers - 07 Pointers to Void.vcxproj" Id="7fe4a89f-fa83-41d3-86e4-b9e107900c7d" />
+  <Project Path="Pointers - 08 Memory Managment - New and Delete/Pointers - 08 Memory Managment - New and Delete.vcxproj" Id="f7f6edc0-9ac9-4473-8eed-90687a379573" />
+  <Project Path="Pointers - 09 Dynamic Array - New and Delete/Pointers - 09 Dynamic Array - New and Delete.vcxproj" Id="3a8ab6e4-9c49-4cea-a69c-06f5b38a83c4" />
   <Project Path="Vectors - 01 Declaration and Initialization/Vectors - 01 Declaration and Initialization.vcxproj" Id="3a22b41f-1c74-4e65-9167-8c05c74dbd87" />
   <Project Path="Vectors - 02 Add Elements/Vectors - 02 Add Elements.vcxproj" Id="b7c7412f-ab60-4e44-8683-0906ea6a5f81" />
   <Project Path="Vectors - 03 Vector of Structure/Vectors - 03 Vector of Structure.vcxproj" Id="2ce42d83-27b7-471a-b7f7-5aa10382a4c5" />
