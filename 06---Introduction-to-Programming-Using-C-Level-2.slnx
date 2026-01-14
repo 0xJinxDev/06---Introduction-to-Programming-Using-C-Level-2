@@ -3,7 +3,16 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Vectors - 01 Declaration and Initialization/Vectors - 01 Declaration and Initialization.vcxproj" />
-  <Project Path="Vectors - 02 Add Elements/Vectors - 02 Add Elements.vcxproj" />
-  <Project Path="Vectors - 03 Vector of Structure/Vectors - 03 Vector of Structure.vcxproj" />
+  <Project Path="Pointers - 01 What is pointer/Pointers - 01 What is pointer.vcxproj" Id="9df66bd5-85b3-4df9-8f62-dbdfa915c0c5" />
+  <Project Path="Pointers - 02 Dereferencing Pointers/Pointers - 02 Dereferencing Pointers.vcxproj" Id="e3fd790d-92c9-4bd7-b301-4f32244c8151" />
+  <Project Path="Pointers - 03 Pointers vs References/Pointers - 03 Pointers vs References.vcxproj" Id="866931fb-5b3f-4a83-b70b-15e1c14650d3" />
+  <Project Path="Pointers - 04 Call by Reference Using Pointers/Pointers - 04 Call by Reference Using Pointers.vcxproj" Id="d564edcf-2687-4222-a4fb-ce24943f7f79" />
+  <Project Path="Vectors - 01 Declaration and Initialization/Vectors - 01 Declaration and Initialization.vcxproj" Id="3a22b41f-1c74-4e65-9167-8c05c74dbd87" />
+  <Project Path="Vectors - 02 Add Elements/Vectors - 02 Add Elements.vcxproj" Id="b7c7412f-ab60-4e44-8683-0906ea6a5f81" />
+  <Project Path="Vectors - 03 Vector of Structure/Vectors - 03 Vector of Structure.vcxproj" Id="2ce42d83-27b7-471a-b7f7-5aa10382a4c5" />
+  <Project Path="Vectors - 04 Remove Elements/Vectors - 04 Remove Elements.vcxproj" Id="538e01d1-f509-4359-bad4-5f055110abbd" />
+  <Project Path="Vectors - 05 Vector Functions/Vectors - 05 Vector Functions.vcxproj" Id="30f88ba8-d4cb-43de-8d90-868017f6f0b9" />
+  <Project Path="Vectors - 06 Accessing Elements/Vectors - 06 Accessing Elements.vcxproj" Id="1c5fdaa2-0b77-4ffc-8d92-e397b6034969" />
+  <Project Path="Vectors - 07 Changing Elements/Vectors - 07 Changing Elements.vcxproj" Id="dc89bc05-43aa-40c6-86ab-9e459bebed75" />
+  <Project Path="Vectors - 08 Vector Iterators/Vectors - 08 Vector Iterators.vcxproj" Id="e4b61478-5ef4-43a8-b95b-a67ddb9694df" />
 </Solution>
