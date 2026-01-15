@@ -107,7 +107,7 @@ int main() {
 	getline(cin, Line);
 	RemoveLine("Hamza.txt", Line);
 
-	cout << "Eployees after removing are:\n";
+	cout << "Employees after removing are:\n";
 	PrintFile("Hamza.txt");
 
 	return 0;
