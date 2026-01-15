@@ -3,6 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Files - 01 Write Mode/Files - 01 Write Mode.vcxproj" Id="5aa5f1dd-ac8e-498a-8e56-950ff2288398" />
+  <Project Path="Files - 02 Append Mode/Files - 02 Append Mode.vcxproj" Id="74267386-aa13-4a7b-a97a-bd3e11200c91" />
+  <Project Path="Files - 03 Read Mode/Files - 03 Read Mode.vcxproj" Id="438b5515-89ab-49ef-9279-e90e1b1d6919" />
+  <Project Path="Files - 04 Load Data to Vector/Files - 04 Load Data to Vector.vcxproj" Id="afd01a5d-a140-41b0-a8ce-81e20586764c" />
   <Project Path="Pointers - 01 What is pointer/Pointers - 01 What is pointer.vcxproj" Id="9df66bd5-85b3-4df9-8f62-dbdfa915c0c5" />
   <Project Path="Pointers - 02 Dereferencing Pointers/Pointers - 02 Dereferencing Pointers.vcxproj" Id="e3fd790d-92c9-4bd7-b301-4f32244c8151" />
   <Project Path="Pointers - 03 Pointers vs References/Pointers - 03 Pointers vs References.vcxproj" Id="866931fb-5b3f-4a83-b70b-15e1c14650d3" />
